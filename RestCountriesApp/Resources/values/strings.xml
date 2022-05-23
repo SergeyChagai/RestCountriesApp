@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RestCountriesApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="languages_label_text">Languages:</string>
+    <string name="country">Country</string>
+    <string name="region">Region</string>
+    <string name="capital">Capital</string>
+</resources>
